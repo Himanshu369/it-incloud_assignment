@@ -1,0 +1,22 @@
+metadatabbsb: XXXX 
+
+tls.crt:
+-----beginning-----
+tls crt
+hello crt
+hi crt
+34324 
+3243hds
+------ending--------
+
+tls.key:
+-------beginning------
+tls key
+hello key
+hi key
+3434
+34 kjdkf
+
+---------ending-------
+
+metadatabbsb: hhsbs
